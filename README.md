@@ -46,13 +46,15 @@ Windows Güvenlik Duvarı yerel ağ kullanımı için portu sorabilir; yalnızca
 
 ## Ekran görüntüleri
 
-### Sunucu
+<img width="1593" height="837" alt="Fotoğraf 1" src="https://github.com/user-attachments/assets/c909bc0d-23c9-4b36-8154-b5471e451e36" />
 
-![Sunucu](screenshots/01-sunucu.png)
+<div style="height: 20px;"></div>
 
-### İstemci
+<img width="771" height="517" alt="Fotoğraf 2" src="https://github.com/user-attachments/assets/7f22887c-d69e-4558-9059-cbaa469c8f1c" />
 
-![İstemci](screenshots/02-istemci.png)
+
+
+
 
 ## Bilinen sınırlamalar
 
