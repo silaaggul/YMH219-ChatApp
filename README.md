@@ -45,12 +45,15 @@ dotnet run --project ChatClient
 Windows Güvenlik Duvarı yerel ağ kullanımı için portu sorabilir; yalnızca ders ortamında izin verin.
 
 ## Ekran görüntüleri
+<p>
+<img width="1593" height="837" src="https://github.com/user-attachments/assets/c909bc0d-23c9-4b36-8154-b5471e451e36" />
+</p>
 
-<img width="1593" height="837" alt="Fotoğraf 1" src="https://github.com/user-attachments/assets/c909bc0d-23c9-4b36-8154-b5471e451e36" />
+<p>&nbsp;</p>
 
-<div style="height: 20px;"></div>
-
-<img width="771" height="517" alt="Fotoğraf 2" src="https://github.com/user-attachments/assets/7f22887c-d69e-4558-9059-cbaa469c8f1c" />
+<p>
+<img width="771" height="517" src="https://github.com/user-attachments/assets/7f22887c-d69e-4558-9059-cbaa469c8f1c" />
+</p>
 
 
 
